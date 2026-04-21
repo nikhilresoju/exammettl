@@ -1,1 +1,12 @@
-# .gitignore content here
+.env
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+results.xlsx
+certificate.pdf
+.DS_Store
