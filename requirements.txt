@@ -1,1 +1,1 @@
-<content from shanmukhasai2345/exammettl/requirements.txt>
+# requirements.txt content here
